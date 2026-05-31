@@ -16,17 +16,15 @@ Data Source → Databricks Volume → Bronze Layer → Silver Layer → Gold Lay
 ---
 
 ## Project Structure
-
-## Project Structure
-
 stock-market-analytics
+│
 ├── architecture
 │   └── stock_market_pipeline.png
 │
 ├── data
-│   ├── AMZN_Daily.csv.csv
-│   ├── AMZN_Weekly.csv.csv
-│   └── AMZN_Monthly.csv.csv
+│   ├── AMZN_Daily.csv
+│   ├── AMZN_Weekly.csv
+│   └── AMZN_Monthly.csv
 │
 ├── notebooks
 │   └── xx
@@ -52,14 +50,12 @@ stock-market-analytics
 │   └── stockmarket.pbix
 │
 ├── screenshots
-│   ├── 1.daily_dashboard.png.png
+│   ├── 1.daily_dashboard.png
 │   ├── 2.weekly_dashboard.png
 │   └── 3.monthly_dashboard.png
 │
 ├── README.md
 └── .gitignore
-
-
 ---
 
 ## Data Source
