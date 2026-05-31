@@ -16,6 +16,7 @@ Data Source → Databricks Volume → Bronze Layer → Silver Layer → Gold Lay
 ---
 
 ## Project Structure
+```text
 stock-market-analytics
 │
 ├── architecture
