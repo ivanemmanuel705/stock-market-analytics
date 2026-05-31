@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databricks
+.dbc
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark
+.metastore_db/
+
+# Databricks runtime files
+spark-warehouse/
