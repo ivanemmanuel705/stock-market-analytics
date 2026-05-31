@@ -17,44 +17,49 @@ Data Source → Databricks Volume → Bronze Layer → Silver Layer → Gold Lay
 
 ## Project Structure
 
+## Project Structure
+
 stock-market-analytics
-│
 ├── architecture
 │   └── stock_market_pipeline.png
 │
 ├── data
-│   ├── AMZN_Daily.csv
-│   ├── AMZN_Weekly.csv
-│   └── AMZN_Monthly.csv
+│   ├── AMZN_Daily.csv.csv
+│   ├── AMZN_Weekly.csv.csv
+│   └── AMZN_Monthly.csv.csv
 │
 ├── notebooks
-│   ├── bronze
-│   │   ├── bronze_amzn_daily.py
-│   │   ├── bronze_amzn_weekly.py
-│   │   └── bronze_amzn_monthly.py
-│   │
-│   ├── silver
-│   │   ├── silver_amzn_daily.py
-│   │   ├── silver_amzn_weekly.py
-│   │   └── silver_amzn_monthly.py
-│   │
-│   ├── gold
-│   │   ├── gold_amzn_daily_summary.py
-│   │   ├── gold_amzn_weekly_summary.py
-│   │   └── gold_amzn_monthly_summary.py
-│   │
-│   └── data_quality_checks.py
+│   └── xx
+│       ├── 1.bronze
+│       │   ├── 1.bronze_amzn_daily.py
+│       │   ├── 2.bronze_amzn_weekly.py
+│       │   └── 3.bronze_amzn_monthly.py
+│       │
+│       ├── 2.silver
+│       │   ├── 1.silver_amzn_daily.py
+│       │   ├── 2.silver_amzn_weekly.py
+│       │   └── 3.silver_amzn_monthly.py
+│       │
+│       ├── 3.gold
+│       │   ├── 1.gold_amzn_daily_summary.py
+│       │   ├── 2.gold_amzn_weekly_summary.py
+│       │   └── 3.gold_amzn_monthly_summary.py
+│       │
+│       └── 4.quality
+│           └── data_quality_checks.py
 │
 ├── powerbi
 │   └── stockmarket.pbix
 │
 ├── screenshots
-│   ├── daily_dashboard.png
-│   ├── weekly_dashboard.png
-│   └── monthly_dashboard.png
+│   ├── 1.daily_dashboard.png.png
+│   ├── 2.weekly_dashboard.png
+│   └── 3.monthly_dashboard.png
 │
 ├── README.md
 └── .gitignore
+
+
 ---
 
 ## Data Source
