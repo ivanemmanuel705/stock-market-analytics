@@ -57,6 +57,7 @@ stock-market-analytics
 │
 ├── README.md
 └── .gitignore
+```
 ---
 
 ## Data Source
@@ -213,17 +214,13 @@ Features:
 ## Dashboard Screenshots
 
 ### Daily Stock Analysis Dashboard
-![Daily Dashboard](screenshots/daily_dashboard.png)
-
----
+![Daily Dashboard](screenshots/1.daily_dashboard.png)
 
 ### Weekly Stock Analysis Dashboard
-![Weekly Dashboard](screenshots/weekly_dashboard.png)
-
----
+![Weekly Dashboard](screenshots/2.weekly_dashboard.png)
 
 ### Monthly Stock Analysis Dashboard
-![Monthly Dashboard](screenshots/monthly_dashboard.png)
+![Monthly Dashboard](screenshots/3.monthly_dashboard.png)
 
 ## Technologies Used
 
