@@ -210,15 +210,20 @@ Features:
 
 ---
 
-## Screenshots
+## Dashboard Screenshots
 
-Add screenshots inside the screenshots folder:
+### Daily Stock Analysis Dashboard
+![Daily Dashboard](screenshots/daily_dashboard.png)
 
-screenshots/
-├── daily_dashboard.png
-├── weekly_dashboard.png
-└── monthly_dashboard.png
 ---
+
+### Weekly Stock Analysis Dashboard
+![Weekly Dashboard](screenshots/weekly_dashboard.png)
+
+---
+
+### Monthly Stock Analysis Dashboard
+![Monthly Dashboard](screenshots/monthly_dashboard.png)
 
 ## Technologies Used
 
