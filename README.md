@@ -213,6 +213,8 @@ Features:
 
 ## Dashboard Screenshots
 
+## Dashboard Screenshots
+
 ### Daily Stock Analysis Dashboard
 ![Daily Dashboard](screenshots/1.daily_dashboard.png)
 
